@@ -7,12 +7,12 @@ public class T2 {
     public static void main(String[] args) {
         T2 hitung = new T2();
         
-        hitung.PP();
+        hitung.PPanj();
         hitung.Ling();
         hitung.waktu();
     }
     
-    void PP(){
+    void PPanj(){
         float panjang=2, lebar=5, luas;
         luas = panjang*lebar;
         
